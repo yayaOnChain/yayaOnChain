@@ -76,5 +76,5 @@ Complete DeFi ecosystem: token swap (x \* y = k), liquidity provision, and yield
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yayaOnChain&color=6C63FF&style=flat-square&label=Profile+Views" />
+  <img src="https://visitcount.itsvg.in/api?id=yayaOnChain&label=Profile%20Views&color=6C63FF&icon=0&pretty=true&ignore-your-views=true" />
 </p>
