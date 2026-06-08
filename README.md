@@ -43,7 +43,7 @@ A full-stack ERC20 token dashboard with wallet connection, real-time balance tra
 
 Dual-mode NFT minter supporting gas-efficient ERC721A bulk minting and 1-of-1 IPFS uploads. Features RainbowKit multi-wallet support, real-time gallery, and event polling.
 
-- **Live:** [en-ef-tee.netlify.app](https://en-ef-tee.netlify.app)
+- **Live:** [stirring-lokum-444a2d.netlify.app/](https://stirring-lokum-444a2d.netlify.app)
 - **Contract:** `0x0D91...5077` on Sepolia
 
 ### 💰 [Staking / DeFi App](https://github.com/yayaOnChain/staking-dapp)
